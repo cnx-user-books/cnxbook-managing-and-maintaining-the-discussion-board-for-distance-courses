@@ -1,0 +1,37 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>A Comparison Using Varied Management Strategies</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>a03451a3-20c5-41fa-b31e-3b585d5a9b4a</md:uuid>
+</metadata>
+  <content>
+    <para id="element-606">The following is a comparison of the total amount of posts by an instructor using different discussion board management approaches. For these examples, assume a class of 20 students with 15 required forums.
+ </para><table id="element-545" summary="">
+<title>Various Management Strategies</title>
+<tgroup cols="2"><tbody>
+		<row>
+			<entry>1 response to all students for all forums</entry>
+			<entry>300 responses per semester</entry>
+		</row>
+		<row>
+			<entry>1 response to initial post and 1 response to a reply for all forums</entry>
+			<entry>600 responses per semester</entry>
+		</row>
+		<row>
+			<entry>1 response to all X 3,5 group posts, 5 summaries, 2 lurks </entry>
+			<entry>70 responses per semester</entry>
+		</row>
+		<row>
+			<entry>1 response to all X 5,5 group posts, 5 summaries</entry>
+			<entry>110 responses per semester</entry>
+		</row>
+		<row>
+			<entry>1 response to all X 7,5 group posts, 3 summaries</entry>
+			<entry>148 responses per semester</entry>
+		</row>
+	</tbody>
+
+</tgroup>
+</table><para id="element-514">As you can quickly see, using management approaches radically alters the number of posts. This mix-and-match approach should allow you to establish a strong instructor presence without requiring an excessive amount of posts. There is no magic formula for this approach but we do encourage you to let students know the types of responses they should expect to receive from you.  
+</para>   
+  </content>
+  
+</document>
